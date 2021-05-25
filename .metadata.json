@@ -1,0 +1,13 @@
+[
+  {
+    "package": "gtfstools",
+    "oncran": true
+  },
+  {
+    "package": "gtfsio",
+    "oncran": true
+  },
+  {
+    "package": "dhmisc"
+  }
+]

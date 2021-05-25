@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dhersz/universe
 	shallow = true
 	branch = HEAD
+[submodule "gtfstools"]
+	path = gtfstools
+	url = https://github.com/ipeaGIT/gtfstools
+	shallow = true
+	registered = true
+[submodule "gtfsio"]
+	path = gtfsio
+	url = https://github.com/r-transit/gtfsio
+	shallow = true
+	registered = true
+[submodule "dhmisc"]
+	path = dhmisc
+	url = https://github.com/dhersz/dhmisc
+	shallow = true
+	registered = true
