@@ -18,3 +18,8 @@
 	url = https://github.com/dhersz/dhmisc
 	shallow = true
 	registered = true
+[submodule "replr"]
+	path = replr
+	url = https://github.com/dhersz/replr
+	shallow = true
+	registered = true

@@ -9,5 +9,8 @@
   },
   {
     "package": "dhmisc"
+  },
+  {
+    "package": "replr"
   }
 ]
