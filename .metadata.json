@@ -12,5 +12,8 @@
   },
   {
     "package": "replr"
+  },
+  {
+    "package": "aopint"
   }
 ]

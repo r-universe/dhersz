@@ -23,3 +23,8 @@
 	url = https://github.com/dhersz/replr
 	shallow = true
 	registered = true
+[submodule "aopint"]
+	path = aopint
+	url = https://github.com/dhersz/aopint
+	shallow = true
+	registered = true
