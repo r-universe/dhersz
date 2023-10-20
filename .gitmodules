@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/dhersz/universe
 	branch = HEAD
+[submodule "accessibility"]
+	path = accessibility
+	url = https://github.com/ipeaGIT/accessibility
 [submodule "aopint"]
 	path = aopint
 	url = https://github.com/dhersz/aopint
