@@ -11,6 +11,9 @@
 [submodule "dhmisc"]
 	path = dhmisc
 	url = https://github.com/dhersz/dhmisc
+[submodule "enderecopadrao"]
+	path = enderecopadrao
+	url = https://github.com/ipeagit/enderecopadrao
 [submodule "gtfsio"]
 	path = gtfsio
 	url = https://github.com/r-transit/gtfsio
@@ -20,3 +23,9 @@
 [submodule "replr"]
 	path = replr
 	url = https://github.com/dhersz/replr
+[submodule "rosmium"]
+	path = rosmium
+	url = https://github.com/ipeagit/rosmium
+[submodule "rosmosis"]
+	path = rosmosis
+	url = https://github.com/dhersz/rosmosis
