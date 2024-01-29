@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dhersz/universe
+	url = https://github.com/dhersz/dhersz.r-universe.dev
 	branch = HEAD
 [submodule "accessibility"]
 	path = accessibility
